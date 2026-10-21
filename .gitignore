@@ -1,0 +1,19 @@
+# Environment variables & secrets (CRITICAL)
+.env
+.env.*
+*.env
+
+# Python & Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Logs
+*.log
